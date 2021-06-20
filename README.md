@@ -13,4 +13,8 @@ The project makes use of Java swing, OOPS concepts and much more.
 
 
 
+
+
+
+
 ![](BrickGameJava.PNG)  
